@@ -17,8 +17,8 @@ Starting version `0.43`, the React Native [Image component](https://facebook.git
 ## Installation
 
 ### react-native-fetch-blob
-This package has a dependency with [react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob).
-If your project doesn't have a dependency with this package already, please refer to [their installation instructions](https://github.com/wkh237/react-native-fetch-blob#user-content-installation).
+This package has a dependency with [rn-fetch-blob](https://github.com/joltup/rn-fetch-blob).
+If your project doesn't have a dependency with this package already, please refer to [their installation instructions](https://github.com/joltup/rn-fetch-blob#user-content-installation).
 
 ```bash
 npm install react-native-img-cache --save
